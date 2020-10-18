@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371170680751",
+    "firebase_url": "https://ghitni.firebaseio.com",
+    "project_id": "ghitni",
+    "storage_bucket": "ghitni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371170680751:android:5607b57a13427d589ad95a",
+        "android_client_info": {
+          "package_name": "com.example.mqtt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371170680751-jr7krv2lads9fm2mrbkou376linnaomk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mqtt2",
+            "certificate_hash": "f7fc4870671265ead36b1d96a4880cbd4fb23e63"
+          }
+        },
+        {
+          "client_id": "371170680751-to1b0ur556d0buiajidqgrp3a7lhtcqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfB15G1YUBg61xrHM2gqFAri3LfUQgmBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371170680751-to1b0ur556d0buiajidqgrp3a7lhtcqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
